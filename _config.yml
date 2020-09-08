@@ -1,29 +1,27 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
+name: "bu-yi"
+title: "안녕하세용"
 description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.png' 
 favicon: 'assets/images/logo.png'
-#url: "https://kangbuyi31.github.io"
 baseurl: "https://kangbuyi31.github.io"
-#baseurl: ""
 google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
+disqus: 'demowebsite' #댓글 플러그인
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: bu-yi@naver.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  bu-yi:
+    name: 부이
+    display_name: 부잉
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: bu-yi@naver.com
+    web: https://kangbuyi31.github.io
+    twitter: https://twitter.com/
+    description: "방가워욤."
   john:
     name: John
     display_name: John    
